@@ -4,7 +4,7 @@
         "测试群名2": "Kv2fXJcH"
     },
     "midjourney": {
-        "enabled": true,
+        "enabled": false,
         "auto_translate": true,
         "img_proxy": true,
         "max_tasks": 3,
